@@ -1,0 +1,8 @@
+C:\curso\cinema\cinema\bin\Debug\cinema.exe.config
+C:\curso\cinema\cinema\bin\Debug\cinema.exe
+C:\curso\cinema\cinema\bin\Debug\cinema.pdb
+C:\curso\cinema\cinema\obj\Debug\cinema.csproj.AssemblyReference.cache
+C:\curso\cinema\cinema\obj\Debug\cinema.csproj.SuggestedBindingRedirects.cache
+C:\curso\cinema\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
+C:\curso\cinema\cinema\obj\Debug\cinema.exe
+C:\curso\cinema\cinema\obj\Debug\cinema.pdb
